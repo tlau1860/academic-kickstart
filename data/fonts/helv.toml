@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Helv"
+
+# Optional Google font URL
+google_fonts = "Helvetica:400,700|Roboto:400,400italic,700|Roboto+Helvetica"
+
+# Font families
+heading_font = "Helvetica"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
