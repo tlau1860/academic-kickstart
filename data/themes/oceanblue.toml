@@ -7,6 +7,10 @@ light = true
 # Primary
 primary = "#0073C0"
 
+# Links
+link = "#FF9A56"
+link_hover = "rgb(54, 54, 54)"
+
 # Menu
 menu_primary = "#0073C0" # 500
 menu_text = "#fff"
