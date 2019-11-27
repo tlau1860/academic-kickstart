@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+font = "MinimalEdit"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Psychology, Royal Holloway, University of London", city = "Egham", region = "Surrey", postcode = "TW20 0EX", country = "United Kingdom", country_code = "GB"}
+address = {street = "Department of Psychology<br>Royal Holloway, University of London", city = "Egham", region = "Surrey", postcode = "TW20 0EX", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -169,7 +169,8 @@ plugins_js  = []
 # Available address formats.
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = ['<br>', '<br>', '<br>', '']}
+  #en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = [', ', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
