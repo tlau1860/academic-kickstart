@@ -3,8 +3,8 @@
 name: Tatiana Lau
 
 # Username (this should match the folder name)
-authors:
-- My_Website
+authors: 
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -76,4 +76,4 @@ email: ""
 
 I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London.
 
-Social groups and tribes provide immense benefits (e.g., social belonging) but incur great costs (e.g., intergroup conflict). Thus, understanding how social group memberships affect our actions and perception of the world may help us to best harness these two byproducts of social groups. Broadly speaking, I am interested in (i) how social group information affects our judgments and choice behavior towards others and (ii) how we understand who is and is not a member of our social groups in the first place (which can in turn affect our behavior towards others).
+Social groups and tribes provide immense benefits but incur great costs. Understanding how social group memberships drive actions and perception of the world may help us to best harness these byproducts of social groups. Broadly speaking, I am interested in (i) how social group information about others affects our judgments and behaviors and (ii) how we come to infer who is and is not a member of our social groups in the first place, which can in turn affect our predictions about and behavior towards others. To answer these questions, I have applied computational models and used functional neuroimaging (fMRI), in-lab, field, and online experiments.

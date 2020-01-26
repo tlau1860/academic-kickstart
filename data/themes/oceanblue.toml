@@ -9,7 +9,8 @@ primary = "#0073C0"
 
 # Links
 link = "#FF9A56"
-link_hover = "rgb(54, 54, 54)"
+link_hover = "#0073C0"
+#link_hover_background = "#0073C0"
 
 # Menu
 menu_primary = "#0073C0" # 500
