@@ -31,10 +31,7 @@ education:
   - course: Ph.D. in Psychology
     institution: "Harvard University"
     year: 2019
-  - course: A.M. in Psychology
-    institution: Harvard University
-    year: 2016
-  - course: A.B. in Economics
+  - course: A.B. in Economics, Certificate in Neuroscience
     institution: Princeton University
     year: 2009
 
