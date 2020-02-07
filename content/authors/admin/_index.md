@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Experimental Social Psychologist
+role: Experimental Psychologist
 
 # Organizations/Affiliations
 organizations:
