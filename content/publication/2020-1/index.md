@@ -3,23 +3,23 @@
 
 title: "Social Structure Learning in Anterior Insula"
 authors: [Lau T., Gershman S. J., Cikara M.]
-date: 2019-10-20T20:19:38+01:00
+date: 2020-02-17
 doi: "10.31234/osf.io/m96qh"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-20T20:19:38+01:00
+publishDate: 2020-02-17
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PsyArxiv"
-publication_short: ""
+publication: "eLife"
+publication_short: "eLife"
 
-abstract: "Humans form social coalitions in every society, yet we know little about how we learn and represent social group boundaries. We derive predictions from a computational model of latent structure learning to move beyond explicit category labels and interpersonal, or dyadicsimilarity as the sole inputs to social group representations. Using a model-based analysis of functional neuroimaging data, we find that separate areas correlate with dyadic similarity and latent structure learning. Trial-by-trial updating ofdyadic similarity between participants and each agent recruited medial prefrontal cortex/pregenual anterior cingulate (pgACC). Trial-by-trial latent structure updating, in contrast, recruited right anterior insula (rAI). Variabilityin the brain signal from rAI improved prediction of variability in ally-choice behavior, whereas variability from the pgACC did not. These results provide novel insights into the psychological and neural mechanisms by which people learn to distinguish \"us\" from \"them\"."
+abstract: "Humans form social coalitions in every society, yet we know little about how we learn and represent social group boundaries. Here we derive predictions from a computational model of latent structure learning to move beyond explicit category labels and interpersonal, or dyadic similarity as the sole inputs to social group representations. Using a model-based analysis of functional neuroimaging data, we find that separate areas correlate with dyadic similarity and latent structure learning. Trial-by-trial estimates of ‘allyship’ based on dyadic similarity between participants and each agent recruited medial prefrontal cortex/pregenual anterior cingulate (pgACC). Latent social group structure-based allyship estimates, in contrast, recruited right anterior insula (rAI). Variability in the brain signal from rAI improved prediction of variability in ally-choice behavior, whereas variability from the pgACC did not. These results provide novel insights into the psychological and neural mechanisms by which people learn to distinguish \"us\" from \"them\"."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ links:
    url: https://osf.io/3wtbg/
    icon_pack: ai
    icon: osf
+
+ - name: NeuroVault
+   url: https://neurovault.org/collections/6556/
+
 
 url_pdf: https://psyarxiv.com/m96qh
 url_code:
