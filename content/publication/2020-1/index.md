@@ -3,11 +3,11 @@
 
 title: "Social Structure Learning in Anterior Insula"
 authors: [Lau T., Gershman S. J., Cikara M.]
-date: 2020-02-17
-doi: "10.31234/osf.io/m96qh"
+date: 2020-02-18
+doi: "10.7554/eLife.53162"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-02-17
+publishDate: 2020-02-18
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ links:
    url: https://neurovault.org/collections/6556/
 
 
-url_pdf: https://psyarxiv.com/m96qh
+url_pdf: https://elifesciences.org/articles/53162
 url_code:
 url_dataset: 
 url_poster:
