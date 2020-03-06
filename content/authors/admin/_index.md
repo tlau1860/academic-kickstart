@@ -31,7 +31,7 @@ education:
   - course: Ph.D. in Psychology
     institution: "Harvard University"
     year: 2019
-  - course: A.B. in Economics, Certificate in Neuroscience
+  - course: A.B. in Economics
     institution: Princeton University
     year: 2009
 
@@ -73,4 +73,4 @@ email: ""
 
 I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London.
 
-Social groups and tribes provide immense benefits but incur great costs. Understanding how social group memberships drive actions and perception of the world may help us to best harness these byproducts of social groups. Broadly speaking, I am interested in (i) how social group information about others affects our judgments and behaviors and (ii) how we come to infer who is and is not a member of our social groups in the first place, which can in turn affect our predictions about and behavior towards others. To answer these questions, I have applied computational models and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
+Social groups and tribes provide immense benefits but incur great costs. Understanding how social group memberships drive actions and perception of the world may help us to best harness these byproducts of social groups. Broadly speaking, I am interested in (i) how we come to infer who is and is not a member of our social groups, and (ii) how social group information about others affects our judgments and behaviors towards others. To answer these questions, I have applied computational models and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
