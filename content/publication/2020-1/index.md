@@ -40,7 +40,7 @@ links:
    url: https://neurovault.org/collections/6556/
 
 
-url_pdf: https://elifesciences.org/articles/53162
+url_pdf: /files/LauGershmanCikara2020.pdf
 url_code:
 url_dataset: 
 url_poster:
