@@ -3,11 +3,11 @@
 
 title: "Distributed inference of multi-dimensional, homophilous communities for behavior prediction"
 authors: [Sowrirajan T., Lau T., Pentland A.]
-date: 2020-06-06
+date: 2021-06-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 
+publishDate: 2021-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
