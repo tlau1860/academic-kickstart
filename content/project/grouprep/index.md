@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Inferring and Categorizing Across Social Groups"
-summary: ""
+title: "Categorizing Across Social Groups"
+summary: "How do we learn social group boundaries and actively categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static, single groups (e.g., team membership, race, etc.) and implied that group memberships are inferred via dyadic similarity to the agent under consideration, but this line of research suggests that our abilities to categorize others are far richer and complex and can be captured in a model of latent structure learning."
 authors: []
 tags: ["grouprep"]
 categories: []
@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Humans form social coalitions in every society on earth, yet we know very little about how social group boundaries are learned and actively categorized. Previous research has examined these questions using explicitly labelled, static, single groups (e.g., team membership, race, etc.) and thus implying that group memberships are inferred via dyadic similarity to the agent. However, in one study using orthogonal group memberships, we find that active in-group categorization may instead rely on goal-oriented, domain-general networks in the brain rather than areas related to self-referential processes.
+How do we learn social group boundaries and actively categorize others? Previous research relied on explicitly labelled, static, single groups (e.g., team membership, race, etc.) and implied that group memberships are inferred via dyadic similarity to the agent (i.e., "How similar am I to John?" drives how we perceive John, and "How similar am I to Joan?" drives how we perceive Joan). However, in one study using orthogonal group membership labels, we find that active in-group categorization may instead rely on goal-oriented, domain-general networks in the brain.
 
-In the absence of labels, how do we accumulate information to infer in- and out-group members? In a separate study, we generate predictions from a computational model of latent structure learning to show that to infer in- and out-group members, people integrate information about relationships between all agents in the environment in addition to dyadic similarity to themselves. These latent groups affect trait attributions made about agents and persist despite contradicting explicit group labels, and understanding the extent to which we rely on these latent group structures may have implications for ways in which we could decrease intergroup bias.
+In the absence of labels, how do we accumulate information to infer in- and out-group members? In a separate study, we use a generative model of latent structure learning to show that people integrate information about relationships between all agents in the environment in addition to dyadic similarity to themselves (i.e., "How similar am I to John?" and "How similar am I to Joan?" in addition to "How similar are John and Joan?"). These latent structures affect trait attributions made about agents and persist despite contradicting explicit group labels. In a separate study, we find that separate areas of the brain concurrently track latent structures and dyadic similarity. Understanding the extent to which we rely on these latent group structures may have implications for ways in which we could decrease intergroup bias.
