@@ -73,6 +73,6 @@ email: ""
 # - Visitors
 ---
 
-I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London.
+I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
 Social groups and tribes provide immense benefits but incur great costs. Understanding how social group memberships drive actions and perception of the world may help us to best harness these byproducts of social groups. Broadly speaking, I am interested in (i) how we come to infer who is and is not a member of our social groups, and (ii) how social group information about others affects our judgments and behaviors towards others. To answer these questions, I have applied computational models and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
