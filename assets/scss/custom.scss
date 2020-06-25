@@ -1,0 +1,13 @@
+// Override this file to add your own SCSS styling.
+
+
+body {
+  font-family: inherit;
+  font-size: 0.95rem;
+  line-height: inherit;
+  color: inherit;
+  background-color: $sta-background;
+  margin-top: 70px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}

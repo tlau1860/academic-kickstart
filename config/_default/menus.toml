@@ -18,6 +18,11 @@
   url = "#featured"
   weight = 40
 
+# [[main]]
+#     name = "Blog"
+#     url = "/post"
+#     weight = 45
+
 [[main]]
   name = "Contact"
   url = "#contact"

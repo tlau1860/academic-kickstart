@@ -2,7 +2,7 @@
 name = "meme"
 
 # Optional Google font URL
-google_fonts = "Montserrat:wght@300|Raleway:400,700|Roboto:400,400i,700|Lato|Open+Sans"
+google_fonts = "Montserrat:wght@300|Raleway:400,700|Lato|Open+Sans"
 
 # Font families
 heading_font = "Montserrat"
