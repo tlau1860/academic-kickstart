@@ -45,7 +45,7 @@ url_code:
 url_dataset: 
 url_poster:
 url_project:
-url_slides: /files/LatentGroup.pdf
+url_slides: https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Ffnsh5%2Fdownload
 url_source:
 url_video:
 
