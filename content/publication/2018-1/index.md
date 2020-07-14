@@ -46,9 +46,10 @@ url_code:
 url_dataset: 
 url_poster: 
 url_project: 
-url_slides:
+url_slides: /files/LatentStructureLearning.pdf
 url_source: 
 url_video:
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

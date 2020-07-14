@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in intergroup relations and decision-making
+bio: Interested in intergroup relations, social cognition, and decision-making
 
 interests:
 - Intergroup Processes
