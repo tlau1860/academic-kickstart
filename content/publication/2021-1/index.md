@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Behavior prediction has been a core component of evaluating social science algorithms. Many of these previous studies, however, ignore the complexities of psychological processes underlying social groups and social inference and are tested on small data sets. Here, we introduce a new framework, the Distributed Latent Group Influence Model, wherein we leverage recent findings in psychology to infer latent communities across a large network to predict behavior. We then incorporate these latent communities and their heterogeneous influence on members into a model predicting behavior across time. We test this model against other potential accounts on a longitudinal behavioral data set and find that these inferred latent communities (rather than self-reported network structures) can predict significant variation in behaviors. More importantly, this framework allows us to integrate networks, individual decisions, and characteristics into an interpretable model from which we can derive insights and accurately predict shifting behaviors over time. "
 
 # Summary. An optional shortened abstract.
 summary: ""
