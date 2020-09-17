@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed inference of multi-dimensional, homophilous communities for behavior prediction"
-authors: [Sowrirajan T., Lau T., Pentland A.]
-date: 2021-06-06
+title: "Distributed inference of latent communities for temporal behavior prediction"
+authors: [Sowrirajan T., Pentland A., Lau, T.]
+date: 2022-06-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-01
+publishDate: 2022-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
