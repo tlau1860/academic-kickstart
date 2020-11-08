@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Value of Victory: Social origins of the winner's curse in common value auctions"
-authors: [Van Den Bos W., Li J., Lau T., Maskin E., Cohen J. D., Montague P. R., McClure S. M.]
+authors: 
+- Wouter Van Den Bos
+- Jian Li 
+- admin
+- Eric Maskin
+- Jonathan D. Cohen
+- P. Read Montague
+- Samuel M. McClure
 date: 2008-10-01
 doi: ""
 

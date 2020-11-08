@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Social Structure Learning in Anterior Insula"
-authors: [Lau T., Gershman S. J., Cikara M.]
+authors:
+- admin
+- Samuel J. Gershman
+- Mina Cikara
 date: 2020-02-18
 doi: "10.7554/eLife.53162"
 
@@ -24,7 +27,8 @@ abstract: "Humans form social coalitions in every society, yet we know little ab
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags:
+- grouprep
 categories: []
 featured: true
 
@@ -62,7 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [grouprep]
+projects: 
+- grouprep
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

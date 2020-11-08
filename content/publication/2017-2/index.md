@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "fMRI Repetition Suppression During Generalized Social Categorization"
-authors: [Lau T., Cikara M.]
+authors: 
+- admin
+- Mina Cikara
+
 date: 2017-06-01
 doi: "10.1038/s41598-017-04115-8"
 
@@ -24,7 +27,7 @@ abstract: "Correctly identifying friends and foes is integral to successful grou
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags: []
 categories: []
 featured: false
 

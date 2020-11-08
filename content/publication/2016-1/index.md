@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Overcorrection for Social-Categorization Information Moderates Impact Bias in Affective Forecasting"
-authors: [Lau T., Morewedge C. M., Cikara M.]
+authors: 
+- admin
+- Carey M. Morewedge
+- Mina Cikara
+
 date: 2016-10-01
 doi: "10.1177/0956797616660292"
 
@@ -24,7 +28,7 @@ abstract: "Plural societies require individuals to forecast how others—both in
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["forecasting"]
+tags: []
 categories: []
 featured: false
 

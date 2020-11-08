@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Discovering Social Groups via Latent Structure Learning"
-authors: [Lau T., Pouncy H. T., Gershman S. J., Cikara M.]
+authors: [admin, H. Thomas Pouncy, Samuel J. Gershman, Mina Cikara]
 date: 2018-10-01
 doi: "10.1037/xge0000470"
 
@@ -24,7 +24,7 @@ abstract: "Humans form social coalitions in every society on earth, yet we know 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags: []
 categories: []
 featured: false
 

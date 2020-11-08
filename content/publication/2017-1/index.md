@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Decoding \"Us\" and \"Them\": Neural Representations of Generalized Group Concepts"
-authors: [Cikara M., Van Bavel J. J., Ingbretsen Z. A., Lau T.]
+authors:
+- Mina Cikara
+- Jay J. Van Bavel
+- Zach A. Ingbretsen 
+- admin
 date: 2017-05-01
 doi: "10.1037/xge0000287"
 
@@ -24,7 +28,7 @@ abstract: "Humans form social coalitions in every society on earth, yet we know 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags: []
 categories: []
 featured: false
 
