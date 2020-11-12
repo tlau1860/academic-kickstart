@@ -27,8 +27,7 @@ abstract: "Humans form social coalitions in every society, yet we know little ab
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- grouprep
+tags: []
 categories: []
 featured: true
 

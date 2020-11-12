@@ -4,9 +4,9 @@
 title: "Categorizing Across Social Groups"
 summary: "How do we learn social group boundaries and actively categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static, single groups (e.g., team membership, race, etc.) and implied that group memberships are inferred via dyadic similarity to the agent under consideration, but this line of research suggests that our abilities to categorize others are far richer and complex and can be captured in a model of latent structure learning."
 authors: []
-tags: ["grouprep"]
+tags: [""]
 categories: []
-date: 2019-10-20T23:43:41+01:00
+date: 2020-10-20T23:43:41+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,5 +40,7 @@ url_video: ""
 slides: ""
 ---
 How do we learn social group boundaries and actively categorize others? Previous research relied on explicitly labelled, static, single groups (e.g., team membership, race, etc.) and implied that group memberships are inferred via dyadic similarity to the agent (i.e., "How similar am I to John?" drives how we perceive John, and "How similar am I to Joan?" drives how we perceive Joan). 
-In contrast to this, we use a generative model of latent structure learning and show that people integrate the relationships between all agents in the environment in addition to each agent's dyadic similarity to themselves (i.e., "How similar am I to John?" and "How similar am I to Joan?" in addition to "How similar are John and Joan?"). These latent structures affect trait attributions made about agents and persist despite contradicting explicit group labels. Moreover, separate areas of the brain concurrently track latent structures and dyadic similarity. Understanding the extent to which we rely on these latent group structures may have implications for ways in which we could decrease intergroup bias.
-Perhaps in actively categorizing in- and out-group members, we may rely on dyadic similarity, and this process may be associated with regions of the brain commonly found in social cognition tasks, where participants reflect on the traits and preferences of themselves and close others. However, in one study using orthogonal group membership labels, we find that active in-group categorization may instead rely on goal-oriented, domain-general networks in the brain.
+
+In contrast to this, we use a generative model of latent structure learning and show that people integrate the relationships between all agents in the environment in addition to each agent's dyadic similarity to themselves (i.e., "How similar am I to John?" and "How similar am I to Joan?" *in addition to* "How similar are John and Joan?") in order to infer the most probable latent group of people in the environment. These latent groups affect trait attributions made about agents and persist despite contradicting explicit group labels. Moreover, separate areas of the brain concurrently track latent structures and dyadic similarity. Taken together, this suggests that the process of understanding "us" and "them" is flexible and context-dependent in a way that can be captured by a latent structure model. Understanding the extent to which we rely on these latent groups may have implications for ways in which we could decrease intergroup bias.
+
+Yet, perhaps when we actively categorize in- and out-group members, we may rely on dyadic similarity, and this process may then be associated with regions of the brain commonly found in social cognition tasks, where participants reflect on the traits and preferences of themselves and close others. However, we find that active in-group categorization may instead rely on goal-oriented, domain-general networks in the brain.

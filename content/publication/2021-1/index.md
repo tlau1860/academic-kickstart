@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Reframing Social Categorisation as Latent Structure Learning for Understanding Political Behaviour"
-authors: [Lau, T.]
+authors: 
+- admin
 date: 2020-11-05T18:46:01Z
 doi: ""
 
@@ -24,7 +25,7 @@ abstract: "Affiliating with political parties, voting, and building coalitions a
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags: [""]
 categories: []
 featured: false
 

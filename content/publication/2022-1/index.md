@@ -2,12 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Distributed inference of latent communities for temporal behavior prediction"
-authors: [Sowrirajan T., Pentland A., Lau, T.]
+authors: 
+- Tara Sowrirajan
+- Alex \'Sandy\' Pentland
+- admin
 date: 2022-06-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-01
+publishDate: 2030-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,21 +22,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "Understanding drivers of behaviors can help us build better predictive models.
-Much debate has surrounded how social influence permeates through social networks.
-On one hand, social influence is thought to be localized within communities, other work has demonstrated that social influence can diffuse through weak ties within networks.
-In focusing on how social influence flows through direct ties, however, the literature has missed the potential of leveraging social groups, which also exert social influence on their members.
-Here, we leverage recent psychological findings suggesting that social influence and social groups, rather than depending on direct ties, are the result of the latent communities that one infers by observing others’ preferences and behaviors.
-We adapt this model for use for large-scale data and introduce a new framework, the Distributed Latent Group Influence Model, wherein we leverage this idea across a large network to predict behavior. 
-We incorporate these latent communities and their heterogeneous influence on members into a model predicting behavior across time.
-We test this model using a longitudinal behavioral data set and find that these inferred latent communities (rather than self-reported network structures) can predict significant variation in behaviors.
-Importantly, this framework allows us to model social influence without needing predetermined, self-reported social network structures—a common feature of current research.
-It also allows us to integrate networks, individual decisions, and characteristics into an interpretable model from which we can derive insights and accurately predict shifting behaviors over time. "
+abstract: "Understanding drivers of behaviors can help us build better predictive models. Much debate has surrounded how social influence permeates through social networks. On one hand, social influence is thought to be localized within communities, other work has demonstrated that social influence can diffuse through weak ties within networks. In focusing on how social influence flows through direct ties, however, the literature has missed the potential of leveraging social groups, which also exert social influence on their members. Here, we leverage recent psychological findings suggesting that social influence and social groups, rather than depending on direct ties, are the result of the latent communities that one infers by observing others’ preferences and behaviors. We adapt this model for use for large-scale data and introduce a new framework, the Distributed Latent Group Influence Model, wherein we leverage this idea across a large network to predict behavior. We incorporate these latent communities and their heterogeneous influence on members into a model predicting behavior across time. We test this model using a longitudinal behavioral data set and find that these inferred latent communities (rather than self-reported network structures) can predict significant variation in behaviors. Importantly, this framework allows us to model social influence without needing predetermined, self-reported social network structures—a common feature of current research. It also allows us to integrate networks, individual decisions, and characteristics into an interpretable model from which we can derive insights and accurately predict shifting behaviors over time. "
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["grouprep"]
+tags: [""]
 categories: []
 featured: false
 
