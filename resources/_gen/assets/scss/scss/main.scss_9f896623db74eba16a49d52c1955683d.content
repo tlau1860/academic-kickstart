@@ -7671,6 +7671,25 @@ div.alert a {
   background-color: #fff5f7;
   border-color: #ff3860; }
 
+.cta-group {
+  --button-group-margin: 0.75em;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+  justify-content: left;
+  margin-left: calc(-1 * var(--button-group-margin));
+  margin-right: calc(-1 * var(--button-group-margin));
+  padding: 0; }
+
+.cta-group-center {
+  justify-content: center; }
+
+.cta-group li {
+  margin-bottom: 1em;
+  margin-left: var(--button-group-margin);
+  margin-right: var(--button-group-margin); }
+
 .svg-icon {
   display: inline-flex;
   align-self: center; }
@@ -7710,10 +7729,9 @@ footer .powered-by {
   list-style: none;
   height: auto;
   width: auto;
-  font-size: 0;
   text-decoration: none; }
 
-.footer-license-icons img {
+.footer-license-icons i {
   display: inline-flex;
   margin-right: 8px;
   height: 22px;
@@ -8510,7 +8528,7 @@ ul.share li:hover i {
   z-index: -1; }
 
 /* Default background image properties for home sections. */
-.home-section-bg .bg-image {
+.home-section-bg.bg-image {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }

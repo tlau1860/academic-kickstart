@@ -4,8 +4,8 @@
 title: "Reframing Social Categorisation as Latent Structure Learning for Understanding Political Behaviour"
 authors: 
 - admin
-date: 2020-11-05T18:46:01Z
-doi: ""
+date: 2021-01-05T18:46:01Z
+doi: "10.1098/rstb.2020.0136"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-11-05T18:46:01Z
@@ -27,7 +27,7 @@ summary: ""
 
 tags: [""]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
