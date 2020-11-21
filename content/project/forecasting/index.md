@@ -4,7 +4,7 @@
 title: "Social Category Information Biases Affective Forecasts"
 summary: "One part of interacting with others is being able to predict and anticipate their future emotional states—that is, make affective forecasts for them. Typically, providing forecasters with more information can help them generate more accurate forecasts. Instead, we find that providing forecasters with targets’ group membership information causes them to make less accurate forecasts compared to when they have no such access to this information."
 authors: []
-tags: ["forecasting"]
+tags: []
 categories: []
 date: 2019-10-20T23:16:33+01:00
 

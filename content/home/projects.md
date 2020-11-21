@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Research Interests"
 subtitle = ""
 
 [content]
@@ -31,7 +31,7 @@ subtitle = ""
   
   # [[content.filter_button]]
   #   name = "Affective Forecasting"
-  #   tag = "afffore"
+  #   tag = "forecasting"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

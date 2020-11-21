@@ -7165,7 +7165,8 @@ body {
   margin-top: 70px;
   /* Offset body content by navbar height. */
   padding-top: 0;
-  counter-reset: captions; }
+  counter-reset: captions;
+  overflow-x: hidden; }
 
 @media (max-width: 991.98px) {
   /* Match max-width of .nav-bar query. */
