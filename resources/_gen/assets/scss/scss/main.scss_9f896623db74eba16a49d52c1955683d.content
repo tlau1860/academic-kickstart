@@ -8493,7 +8493,7 @@ ul.share li:hover i {
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-  color: #f8f8f2; }
+  color: #fff; }
 
 /* Underline links in dark sections to separate them from text */
 .home-section.dark a:not(.btn):not(.hero-cta-alt) {
@@ -8796,7 +8796,7 @@ ul.ul-edu li .description p.institution {
 .dark .experience .card-text p {
   color: #f8f8f2 !important; }
 
-.card .card-text ul {
+.card .card-text p + ul {
   margin-top: -1rem;
   margin-bottom: 0rem; }
 
@@ -9184,7 +9184,7 @@ body.dark,
 .dark h4,
 .dark h5,
 .dark h6 {
-  color: #98a6ad; }
+  color: #fff; }
 
 .dark pre,
 .dark code {
