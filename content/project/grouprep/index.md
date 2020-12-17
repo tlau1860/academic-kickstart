@@ -4,7 +4,7 @@
 title: "Categorizing Across Social Groups"
 summary: "How do we learn social group boundaries and actively categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static, single groups (e.g., team membership, race, etc.) and implied that group memberships are inferred via dyadic similarity to the agent under consideration, but this line of research suggests that our abilities to categorize others are far richer and complex and can be captured in a model of latent structure learning."
 authors: []
-tags: [""]
+tags: []
 categories: []
 date: 2020-10-20T23:43:41+01:00
 
