@@ -5,7 +5,7 @@ title: "Decoding \"Us\" and \"Them\": Neural Representations of Generalized Grou
 authors:
 - Mina Cikara
 - Jay J. Van Bavel
-- Zach A. Ingbretsen 
+- Zachary A. Ingbretsen 
 - admin
 date: 2017-05-01
 doi: "10.1037/xge0000287"
