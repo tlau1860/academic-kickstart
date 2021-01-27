@@ -60,5 +60,5 @@ We find that behaviors of latent group members are on average more predictive of
 Taken together, this suggests that the [flexibility]({{< relref "/publication/2017-1" >}}) and context-dependent nature of understanding "us" and "them" can be captured by a latent structure model. 
 Reframing social groups as a form of latent group learning has [implications]({{< relref "/publication/2021-1" >}}) for understanding and modelling intergroup processes, social influence, choice behavior across different fields.
 
-Yet, perhaps when we actively categorize in- and out-group members, we may rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics.
+Yet, perhaps when we actively categorize in- and out-group members, we rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics.
 However, we find that [active in-group categorization]({{< relref "/publication/2017-2" >}}) may instead rely on goal-oriented, domain-general networks in the brain.
