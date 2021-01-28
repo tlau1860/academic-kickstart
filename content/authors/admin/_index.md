@@ -18,9 +18,9 @@ bio: Interested in intergroup relations, social cognition, and decision-making
 
 interests:
 - Intergroup Processes
+- Judgment and Decision Making
 - Social Cognition
 - Cognitive Neuroscience
-- Judgment and Decision Making
 
 education:
   courses:
@@ -77,4 +77,6 @@ highlight_name: false
 
 I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
-Social groups and tribes provide immense benefits but incur great costs. Understanding how social group memberships drive actions and perception of the world may help us to best harness these byproducts of social groups. Broadly speaking, I am interested in how we come to infer who is and is not a member of our social groups, and how these social group memberships affect our judgments of and behaviors towards others. To answer these questions, I have applied computational models and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
+We organize ourselves into social groups in every society, but our understanding of how people come to perceive others as “us” and “them” and the consequences of these perceptions on our actions and behaviors towards others is poorly understood. 
+My research refines existing theories on the inferences and consequences of social group memberships.
+To answer these questions, I have employed computational models and large observational datasets and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
