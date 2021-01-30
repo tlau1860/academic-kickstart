@@ -7279,7 +7279,7 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: #FF9A56;
+  color: #a9cf2e;
   text-decoration: none;
   transition: color 0.6s ease; }
 
@@ -7289,11 +7289,11 @@ a:focus {
 
 .dark a,
 .dark h3.article-title a:hover {
-  color: #e5A00D; }
+  color: #a9cf2e; }
 
 .dark a:not(.btn):hover,
 .dark a:not(.btn):focus {
-  color: #e5A00D; }
+  color: #dec02b; }
 
 img,
 video {
@@ -8795,10 +8795,10 @@ html[dir='rtl'] body {
   color: #000; }
 
 .home-section.light a {
-  color: #FF9A56; }
+  color: #a9cf2e; }
 
 .home-section.dark a {
-  color: #e5A00D; }
+  color: #a9cf2e; }
 
 /* Override dark colors that may be inherited from body.dark */
 .home-section.dark,

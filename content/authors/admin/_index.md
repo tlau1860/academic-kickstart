@@ -77,6 +77,6 @@ highlight_name: false
 
 I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
-We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our actions and behaviors are poorly understood. 
-My research refines existing theories on the inferences and consequences of social group memberships.
-To answer these questions, I have employed computational models and large observational datasets and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
+We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our beliefs and behaviors are poorly understood. 
+My research seeks to refine existing theories on the inferences and consequences of social group memberships.
+Across my research, I have employed computational models and large observational datasets and used functional neuroimaging (fMRI), in-lab, field, and online experiments.
