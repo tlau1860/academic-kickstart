@@ -55,8 +55,8 @@ Someone who is inferred as an in-group member in one context may be an out-group
 
 These [latent groups]({{< relref "/publication/2018-1" >}}) affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group. 
 Moreover, [separate areas of the brain]({{< relref "/publication/2020-1" >}}) concurrently track probabilities from the latent structure model and forms of dyadic similarity. 
-In forthcoming work, we adapt the model into a framework to detect latent communities in longitudinal mobility, communication, and friendship data observed from a large community.
-We find that behaviors of latent group members are on average more predictive of one's future behaviors compared to the behaviors of friendship ties. 
+In forthcoming work, we adapt the model into a scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
+We illustrate the framework's utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community.
 Taken together, this suggests that the [flexibility]({{< relref "/publication/2017-1" >}}) and context-dependent nature of understanding "us" and "them" can be captured by a latent structure model. 
 Reframing social groups as a form of latent group learning has [implications]({{< relref "/publication/2021-1" >}}) for understanding and modelling intergroup processes, social influence, choice behavior across different fields.
 

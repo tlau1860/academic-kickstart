@@ -15,6 +15,8 @@ github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-2021012002
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210120025205-e0ae7c979cda/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210126214637-64b7d5189bb3 h1:3CW88bGUByAi1KDH/olrBbmwPLOUhna8vRbvcrhBpZU=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210126214637-64b7d5189bb3/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210127225730-4ac1c6aa1a40 h1:qTDiwSNIpSWvBepaw1PlZj4QBvo75Nf5DxsSP8JZtbo=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210127225730-4ac1c6aa1a40/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201016182837-be0fa17ac006/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201112182310-d9db95e24564 h1:3gLf7XjwcB+c6CLBBKUerpnMgWabrwodoUZEine6QO8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201112182310-d9db95e24564/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
@@ -32,3 +34,5 @@ github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210120025205-e0ae7c9
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210120025205-e0ae7c979cda/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210126214637-64b7d5189bb3 h1:fl7/z41Hzo7JF9HuE7FfExig9AtfpNkyUAdsXX07R2g=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210126214637-64b7d5189bb3/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210127225730-4ac1c6aa1a40 h1:mheZDz5DcXq/x8APxFv7pOLtUkuD2qMgz8GGBO1BXrM=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210127225730-4ac1c6aa1a40/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=

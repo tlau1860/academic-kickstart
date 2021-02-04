@@ -7279,7 +7279,7 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: #a9cf2e;
+  color: #FF9A56;
   text-decoration: none;
   transition: color 0.6s ease; }
 
@@ -8795,7 +8795,7 @@ html[dir='rtl'] body {
   color: #000; }
 
 .home-section.light a {
-  color: #a9cf2e; }
+  color: #FF9A56; }
 
 .home-section.dark a {
   color: #a9cf2e; }
