@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Discovering Social Groups via Latent Structure Learning"
+title: "Discovering social groups via latent structure learning"
 authors: [admin, H. Thomas Pouncy, Samuel J. Gershman, Mina Cikara]
 date: 2018-10-01
 doi: "10.1037/xge0000470"

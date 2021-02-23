@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Value of Victory: Social origins of the winner's curse in common value auctions"
+title: "The value of victory: Social origins of the winner's curse in common value auctions"
 authors: 
 - Wouter Van Den Bos
 - Jian Li 

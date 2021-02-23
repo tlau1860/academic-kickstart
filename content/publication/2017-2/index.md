@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "fMRI Repetition Suppression During Generalized Social Categorization"
+title: "fMRI repetition suppression during generalized social categorization"
 authors: 
 - admin
 - Mina Cikara

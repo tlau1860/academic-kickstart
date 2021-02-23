@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Categorizing Across Social Groups"
-summary: "How do we learn social group boundaries and categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \"us\" and \"them\". In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning."
+summary: "In light of diversifying societies, how do we learn social group boundaries and categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \"us\" and \"them\". In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning."
 authors: []
 tags: []
 categories: []
-date: 2020-10-20T23:43:41+01:00
+date: 2021-01-20T23:43:41+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -48,17 +48,17 @@ Similarly, social influence is frequently operationalized as propagating through
 
 {{< figure src="featured1.png" title="Figure 1. (a) Dyadic similarity and (b) Latent group inference" width="70%">}}
 
-In contrast, we use a generative model of Bayesian latent structure learning, in which we infer the most probable latent *group* of people.
-To do this, we can integrate across the relationships between everyone in addition to how each each person relates to ourselves. 
+In contrast, we use a generative model of Bayesian latent structure learning, in which we glean information from the environment to infer the most probable latent *group* of people.
+We can integrate across the relationships between everyone in addition to how each each person relates to ourselves. 
 Asking "How similar am I to Betsy?" and "How similar am I to Annie?" *and* "How similar are Annie and Betsy?" drives how we perceive Annie and Betsy because they affect which latent groups (or structures) are inferred [(Fig. 1b)](#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference).
 Someone who is inferred as an in-group member in one context may be an out-group member in another context. 
 
-These [latent groups]({{< relref "/publication/2018-1" >}}) affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group. 
+These [latent groups]({{< relref "/publication/2018-1" >}}) affect trait attributions made about agents, and their effects persist despite explicit group labels that contradict the latent group. 
 Moreover, [separate areas of the brain]({{< relref "/publication/2020-1" >}}) concurrently track probabilities from the latent structure model and forms of dyadic similarity. 
-In forthcoming work, we adapt the model into a scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
-We illustrate the framework's utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community.
+In forthcoming work, we adapt the model into a novel, scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
+We illustrate the framework's utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community over a nine-month period.
 Taken together, this suggests that the [flexibility]({{< relref "/publication/2017-1" >}}) and context-dependent nature of understanding "us" and "them" can be captured by a latent structure model. 
-Reframing social groups as a form of latent group learning has [implications]({{< relref "/publication/2021-1" >}}) for understanding and modelling intergroup processes, social influence, choice behavior across different fields.
+Reframing social groups as a form of latent group learning has [implications]({{< relref "/publication/2021-1" >}}) for understanding and modelling intergroup processes, social influence, and choice behavior across different fields.
 
 Yet, perhaps when we actively categorize in- and out-group members, we rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics.
 However, we find that [active in-group categorization]({{< relref "/publication/2017-2" >}}) may instead rely on goal-oriented, domain-general networks in the brain.

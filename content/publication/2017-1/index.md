@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Decoding \"Us\" and \"Them\": Neural Representations of Generalized Group Concepts"
+title: "Decoding \"us\" and \"them\": Neural representations of generalized group concepts"
 authors:
 - Mina Cikara
 - Jay J. Van Bavel

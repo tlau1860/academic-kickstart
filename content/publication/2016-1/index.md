@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Overcorrection for Social-Categorization Information Moderates Impact Bias in Affective Forecasting"
+title: "Overcorrection for social-categorization information moderates impact bias in affective forecasting"
 authors: 
 - admin
 - Carey M. Morewedge

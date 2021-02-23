@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Social Structure Learning in Anterior Insula"
+title: "Social structure learning in human anterior insula"
 authors:
 - admin
 - Samuel J. Gershman

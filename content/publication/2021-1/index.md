@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reframing Social Categorization as Latent Structure Learning for Understanding Political Behaviour"
+title: "Reframing social categorization as latent structure learning for understanding political behaviour"
 authors: 
 - admin
 date: "2021-02-23"
@@ -20,10 +20,7 @@ publication_types: ["2"]
 publication: "Philosophical Transactions of the Royal Society B"
 publication_short: "Phil Trans R Soc B"
 
-abstract: "*In Press*
-
-
-Affiliating with political parties, voting, and building coalitions all contribute to the functioning of our political systems. One core component of this is social categorisation—being able to recognise others as fellow in-group members or members of the out-group. Without this capacity, we would be unable to coordinate with in-group members or avoid out-group members. Past research in social psychology and cognitive neuroscience examining social categorisation has suggested that one way to identify in-group members may be to directly compute the similarity between oneself and the target (dyadic similarity). This model, however, does not account for the fact that the group membership brought to bear is context-dependent. This review argues that a more comprehensive understanding of how we build representations of social categories (and the subsequent impact on our behaviours) must first expand our conceptualisation of social categorisation beyond simple dyadic similarity. Further, a generalisable account of social categorization must also provide domain-general, quantitative predictions for us to test hypotheses about social categorisation. Here, we introduce an alternative model—one in which we infer latent groups of people through latent structure learning. We examine experimental evidence for this account and discuss potential implications for understanding the political mind."
+abstract: "Affiliating with political parties, voting and building coalitions all contribute to the functioning of our political systems. One core component of this is social categorization—being able to recognize others as fellow in-group members or members of the out-group. Without this capacity, we would be unable to coordinate with in-group members or avoid out-group members. Past research in social psychology and cognitive neuroscience examining social categorization has suggested that one way to identify in-group members may be to directly compute the similarity between oneself and the target (dyadic similarity). This model, however, does not account for the fact that the group membership brought to bear is context-dependent. This review argues that a more comprehensive understanding of how we build representations of social categories (and the subsequent impact on our behaviours) must first expand our conceptualization of social categorization beyond simple dyadic similarity. Furthermore, a generalizable account of social categorization must also provide domain-general, quantitative predictions for us to test hypotheses about social categorization. Here, we introduce an alternative model—one in which we infer latent groups of people through latent structure learning. We examine experimental evidence for this account and discuss potential implications for understanding the political mind."
 
 # Summary. An optional shortened abstract.
 summary: ""
