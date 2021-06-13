@@ -20,10 +20,11 @@ author = "admin"
     
   # Background color.
   #color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#0073C0" #Deep sky blue
-  gradient_end ="#1DC9DC"
+  gradient_end = "#1DC9DC"
+  gradient_angle = 180
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
