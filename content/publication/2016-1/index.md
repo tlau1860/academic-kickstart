@@ -27,7 +27,6 @@ abstract: "Plural societies require individuals to forecast how others—both in
 
 # Summary. An optional shortened abstract.
 summary: ""
-
 tags: []
 categories: []
 featured: false
@@ -62,7 +61,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [forecasting]
+projects: 
+- forecasting
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
