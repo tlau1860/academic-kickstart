@@ -30,11 +30,11 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: GitHub
+  url: https://github.com/tlau1860/grouprepcode
+  icon_pack: fab
+  icon: github
 
 url_pdf:  files/Lau2021.pdf
 url_code:
