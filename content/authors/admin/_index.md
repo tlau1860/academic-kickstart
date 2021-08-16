@@ -6,7 +6,7 @@ title: Tatiana Lau
 superuser: true
 
 # Role/position
-role: Experimental Psychologist
+role: Experimental Social Psychologist
 
 # Organizations/Affiliations
 organizations:
@@ -57,9 +57,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/tlau.cv.a4.pdf
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:tatiana.lau@rhul.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:tatiana.lau@rhul.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
