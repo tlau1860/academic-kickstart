@@ -50,7 +50,7 @@ url_poster:
 url_project:
 url_slides: https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Ffnsh5%2Fdownload
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=5pQM9Z4_JFI
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

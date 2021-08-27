@@ -62,3 +62,5 @@ Reframing social groups as a form of latent group learning has [implications]({{
 
 Yet, perhaps when we actively categorize in- and out-group members, we rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics.
 However, we find that [active in-group categorization]({{< relref "/publication/2017-2" >}}) may instead rely on goal-oriented, domain-general networks in the brain.
+
+A recording of a seminar presentation covering some of this line of work can be found [here](https://www.youtube.com/watch?v=5pQM9Z4_JFI).
