@@ -39,18 +39,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/8yr2w/
 - icon: github
   icon_pack: fab
   link: https://github.com/tlau1860
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=wDa5ziQAAAAJ&hl=en
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/tatianalau/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0681-7295
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/8yr2w/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -75,7 +78,9 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
+I am a research scientist in the [Machine Assisted Cognition group](https://www.tri.global/our-work/human-centric-ai/) at the Toyota Research Institute. This is my academic research page. 
+
+I was formerly a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
 We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our beliefs and behaviors are poorly understood. 
 My research seeks to refine existing theories on the inferences and consequences of social group memberships.
