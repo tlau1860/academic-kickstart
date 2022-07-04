@@ -1,2 +1,6 @@
-public/
 .idea/
+resources/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
