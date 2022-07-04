@@ -1,36 +1,28 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Categorizing Across Social Groups"
-summary: "In light of diversifying societies, how do we learn social group boundaries and categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \"us\" and \"them\". In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning."
-authors: []
-tags: []
-categories: []
-date: 2021-01-20T23:43:41+01:00
+title: Categorizing Across Social Groups
+summary: In light of diversifying societies, how do we learn social group boundaries and categorize others into \"us\" and \"them\"? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \"us\" and \"them\". In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning.
+tags:
+  # - Deep Learning
+date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: ''
+share: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
+  caption: 
+  focal_point: 
+  preview_only: 'true'
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,6 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 How do we learn social group boundaries and categorize others into \"us\" and \"them\"? 
 Previous research relied on explicitly labeled, static groups (e.g., team membership, race, gender, etc.) and suggested that we infer others' group membership via dyadic similarity—specific, static, salient features we share directly with others. 
 In other words, "How similar am I to Annie?" drives how we perceive Annie, and "How similar am I to Betsy?" drives how we perceive Betsy, but "How similar am I to Annie?" does not affect our perceptions of Betsy [(Fig. 1a)](#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference). 

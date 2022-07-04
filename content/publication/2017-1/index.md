@@ -10,6 +10,7 @@ authors:
 date: 2017-05-01
 doi: "10.1037/xge0000287"
 
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-10-20T19:59:46+01:00
 
@@ -31,6 +32,7 @@ summary: ""
 tags: []
 categories: []
 featured: false
+share: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

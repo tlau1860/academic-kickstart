@@ -26,7 +26,8 @@ abstract: "Affiliating with political parties, voting and building coalitions al
 summary: ""
 tags: ""
 categories: []
-featured: true
+featured: false
+share: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,7 +37,7 @@ links:
   icon_pack: fab
   icon: github
 
-url_pdf:  files/Lau2021.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
