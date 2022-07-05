@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/tlau.cv.a4.pdf
+  link: uploads/tlau.cv.a4.pdf
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:tatiana.lau@rhul.ac.uk'  # For a direct email link, use "mailto:test@example.org".
