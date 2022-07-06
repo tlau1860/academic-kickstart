@@ -4,4 +4,5 @@ resources/
 jsconfig.json
 node_modules/
 go.sum
+.Rhistory
 .hugo_build.lock
