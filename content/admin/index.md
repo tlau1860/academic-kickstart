@@ -5,4 +5,9 @@ private: true
 outputs:
   - wowchemycms_config
   - HTML
+
+
+_build:
+    render: never
+    list: always
 ---

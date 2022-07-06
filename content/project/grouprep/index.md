@@ -30,6 +30,11 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+_build:
+    render: never
+    list: always
 ---
 
 How do we learn social group boundaries and categorize others into \"us\" and \"them\"? 

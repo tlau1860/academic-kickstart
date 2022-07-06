@@ -13,4 +13,8 @@ view: 4
 header:
   caption: ''
   image: ''
+  
+_build:
+    render: never
+    list: always
 ---

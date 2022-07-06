@@ -76,6 +76,10 @@ highlight_name: false
 # user_groups:
 # - Researchers
 # - Visitors
+
+_build:
+    render: never
+    list: always
 ---
 
 I am a research scientist in the [Machine Assisted Cognition group](https://www.tri.global/our-work/human-centric-ai/) at the Toyota Research Institute. This is my academic research page. 
