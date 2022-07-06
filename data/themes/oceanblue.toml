@@ -2,25 +2,21 @@
 name = "Oceanblue"
 
 # Is theme light or dark?
-light = true
-
+[light]
 # Primary
-primary = "#0073C0"
-
+  primary = "#0073C0"
 # Links
-link = "#FF9A56"
-link_hover = "#0073C0"
-link_hover_background = "#e5A00D"
-
+  link = "#FF9A56"
+  link_hover = "#0073C0"
+  link_hover_background = "#e5A00D"
 # Menu
-menu_primary = "#0073C0" # 500
-menu_text = "#fff"
-menu_text_active = "#56bbff" # A100
-menu_title = "#fff"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  menu_primary = "#0073C0" # 500
+  menu_text = "#fff"
+  menu_text_active = "#56bbff" # A100
+  menu_title = "#fff"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
 
 [dark]
   link = "#a9cf2e" #e5A00D ##bbdefb
