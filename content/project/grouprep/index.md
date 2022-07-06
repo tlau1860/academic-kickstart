@@ -32,9 +32,9 @@ url_video: ''
 slides: ""
 
 
-_build:
-    render: always
-    list: never
+# _build:
+#   render: always
+#   list: never
 ---
 
 How do we learn social group boundaries and categorize others into \"us\" and \"them\"? 
