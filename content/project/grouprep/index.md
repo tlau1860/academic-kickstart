@@ -33,8 +33,8 @@ slides: ""
 
 
 _build:
-    render: never
-    list: always
+    render: always
+    list: never
 ---
 
 How do we learn social group boundaries and categorize others into \"us\" and \"them\"? 

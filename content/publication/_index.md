@@ -15,6 +15,6 @@ header:
   image: ''
   
 _build:
-    render: never
-    list: always
+    render: always
+    list: never
 ---
