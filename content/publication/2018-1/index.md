@@ -2,7 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Discovering social groups via latent structure learning"
-authors: [admin, H. Thomas Pouncy, Samuel J. Gershman, Mina Cikara]
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - H. Thomas Pouncy
+  - Samuel J. Gershman
+  - Mina Cikara
 date: 2018-10-01
 doi: "10.1037/xge0000470"
 
