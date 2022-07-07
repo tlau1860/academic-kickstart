@@ -1,19 +1,20 @@
 # Theme metadata
-name = "Oceanblue"
+name = "Oceanblue_dark"
 
 # Is theme light or dark?
-[light]
+[dark]
 # Primary
   primary = "#0073C0"
 # Links
-  link = "#548424" #"#FF9A56"
-  link_hover = "#0073C0"
+  link = "#a9cf2e" #e5A00D ##bbdefb
+  link_hover = "#c6d50e" #"#dec02b"
   link_hover_background = "#e5A00D"
 # Menu
   menu_primary = "#0073C0" # 500
   menu_text = "#fff"
   menu_text_active = "#56bbff" # A100
   menu_title = "#fff"
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  #
+  # # Home sections
+  # home_section_odd = "rgb(255, 255, 255)"
+  # home_section_even = "rgb(247, 247, 247)"
