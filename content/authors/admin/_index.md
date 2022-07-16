@@ -27,9 +27,9 @@ education:
   - course: Ph.D. in Psychology
     institution: "Harvard University"
     year: 2019
-  # - course: A.M. in Psychology
-  #   institution: "Harvard University"
-  #   year: 2016
+  - course: A.M. in Psychology
+    institution: "Harvard University"
+    year: 2016
   - course: A.B. in Economics
     institution: Princeton University
     year: 2009
@@ -57,9 +57,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: uploads/tlau.cv.a4.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/tlau.cv.a4.pdf
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:tatiana.lau@rhul.ac.uk'  # For a direct email link, use "mailto:test@example.org".

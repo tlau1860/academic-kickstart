@@ -6,14 +6,14 @@ name = "Oceanblue_dark"
 # Primary
   primary = "#0073C0"
 # Links
-  link = "#a9cf2e" #e5A00D ##bbdefb
-  link_hover = "#c6d50e" #"#dec02b"
+  link = "#c6d50e"#"#a9cf2e" #e5A00D ##bbdefb
+  link_hover = "#a9cf2e" #"#dec02b"
   link_hover_background = "#e5A00D"
 # Menu
-  menu_primary = "#0073C0" # 500
-  menu_text = "#fff"
-  menu_text_active = "#56bbff" # A100
-  menu_title = "#fff"
+  # menu_primary = "c6d50e" #"#0073C0" # 500
+  # menu_text = "#fff"
+  # menu_text_active = "#56bbff" # A100
+  # menu_title = "#fff"
   #
   # # Home sections
   # home_section_odd = "rgb(255, 255, 255)"
