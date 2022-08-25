@@ -82,7 +82,7 @@ _build:
     list: always
 ---
 
-I am a research scientist in the [Machine Assisted Cognition group](https://www.tri.global/our-work/human-centric-ai/) at the Toyota Research Institute. This is my academic research page. 
+I am a research scientist in the [Human-Centered AI division](https://www.tri.global/our-work/human-centered-ai) at the Toyota Research Institute. This is my academic research page. 
 
 I was formerly a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
