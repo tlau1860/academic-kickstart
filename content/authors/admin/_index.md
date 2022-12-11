@@ -18,8 +18,8 @@ bio: Interested in intergroup relations, social cognition, and decision-making
 
 interests:
 - Intergroup Processes
-- Judgment and Decision Making
 - Social Cognition
+- Judgment and Decision Making
 - Cognitive Neuroscience
 
 education:
