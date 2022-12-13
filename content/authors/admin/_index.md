@@ -26,13 +26,13 @@ education:
   courses:
   - course: Ph.D. in Experimental Psychology
     institution: Harvard University
-    year: 2019
+    # year: 2019
   - course: A.M. in Experimental Psychology
     institution: Harvard University
-    year: 2016
+    # year: 2016
   - course: A.B. in Economics
     institution: Princeton University
-    year: 2009
+    # year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
