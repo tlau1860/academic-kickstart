@@ -6,7 +6,7 @@ title: Tatiana Lau
 superuser: true
 
 # Role/position
-role: Experimental Social Psychologist
+role: Social Psychologist
 
 # Organizations/Affiliations
 organizations:
@@ -24,11 +24,11 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Psychology
-    institution: "Harvard University"
+  - course: Ph.D. in Experimental Psychology
+    institution: Harvard University
     year: 2019
-  - course: A.M. in Psychology
-    institution: "Harvard University"
+  - course: A.M. in Experimental Psychology
+    institution: Harvard University
     year: 2016
   - course: A.B. in Economics
     institution: Princeton University
