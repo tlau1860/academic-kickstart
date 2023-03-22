@@ -82,9 +82,9 @@ _build:
     list: always
 ---
 
-I am currently a research scientist working in [Human-Centered AI](https://www.tri.global/our-work/human-centered-ai) at the Toyota Research Institute. This is my academic research page.
-
-I was formerly a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
+You have reached my academic research page. 
+I was formerly a lecturer (assistant professor) in the [Department of Psychology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/) at Royal Holloway, University of London. 
+I received my PhD from [Harvard University](https://psychology.fas.harvard.edu/), where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
 We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our beliefs and behaviors are poorly understood. 
 My research seeks to refine existing theories on the inferences and consequences of social group memberships.
