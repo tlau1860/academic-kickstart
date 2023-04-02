@@ -27,9 +27,6 @@ education:
   - course: Ph.D. in Experimental Psychology
     institution: Harvard University
     # year: 2019
-  - course: A.M. in Experimental Psychology
-    institution: Harvard University
-    # year: 2016
   - course: A.B. in Economics
     institution: Princeton University
     # year: 2009
